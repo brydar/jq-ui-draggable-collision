@@ -24,6 +24,7 @@
         "jquery": ">=1.4.3"
     },
   "files": [
-      "dist/jquery-ui-draggable-collision.min.js"
+      "dist/jquery-ui-draggable-collision.min.js",
+      "js/jquery-ui-draggable-collision.js"
     ]
 }
